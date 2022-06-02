@@ -4,11 +4,11 @@
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"Terminus:size=9"
+	"FantasqueSansMono Nerd Font:pixelsize=14"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 
-#include</home/looph0le/.cache/wal/colors-wal-dmenu.h>
+#include"/home/looph0le/.cache/wal/colors-wal-dmenu.h"
 
 //static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
